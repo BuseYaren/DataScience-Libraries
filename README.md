@@ -2,8 +2,11 @@
 ### This repository belongs to the codes and sources that I created my YouTube videos.
 
 
-**NumPy Cheat Sheet:** ![NumPy](images/numpy.png "NumPy Cheat Sheet")
-**NumPy Video:** 
+**NumPy Cheat Sheet:** 
+
+![NumPy](images/numpy.png "NumPy Cheat Sheet")
+
+**NumPy Videos:** 
 
 🔔**EN:** https://www.youtube.com/watch?v=ixUUAe8apIU&t=3s 
 
